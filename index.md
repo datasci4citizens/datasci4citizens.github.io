@@ -6,6 +6,10 @@ layout: home
 
 # Disciplina de Extensão MX853
 
+## Horário
+
+Esta disciplina tem o horário reservado às sextas-feiras de 14h às 18h. Este horário será usado para todas as atividades coletivas da disciplina que envolvem o professor, tais como orientações e entrevistas. Portanto, é fundamental que os alunos tenham disponibilidade neste horário para participar dos encontros, sem conflitos com outras disciplinas.
+
 ## Motivação
 
 Há projetos de pesquisa da Unicamp que envolvem interação com a comunidade externa mediante aplicativos de celular ou sites de internet. Eles prestam algum tipo de serviço de informação ou educativo, mas também coletam dados para a pesquisa. Os dados podem estar limitados ao uso do serviço, mas é comum coletarem dados demográficos, do perfil dos usuários ou qualquer outra informação que contribua na pesquisa e ajude a aprimorar o serviço.
