@@ -6,6 +6,12 @@ layout: home
 
 # Disciplina de Extensão MX853
 
+<hr>
+
+### [Veja Orientações iniciais aqui](landing.md)
+
+<hr>
+
 ## Horário
 
 Esta disciplina tem o horário reservado às sextas-feiras de 14h às 18h. Este horário será usado para todas as atividades coletivas da disciplina que envolvem o professor, tais como orientações e entrevistas. Portanto, é fundamental que os alunos tenham disponibilidade neste horário para participar dos encontros, sem conflitos com outras disciplinas.

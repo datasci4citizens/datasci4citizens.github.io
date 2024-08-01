@@ -10,7 +10,8 @@ plugins:
   - jekyll-seo-tag
 
 header_pages:
-  - propostas.md
+ - landing.md
+ - propostas.md
 
 minima:
   # classic	           Default, light color scheme.
