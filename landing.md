@@ -27,6 +27,3 @@ Nosso primeiro encontro será no dia 02/08 e já podem participar dele os alunos
 * [Página Principal da Disciplina](/)
 * [Google Classroom da Disciplina](https://classroom.google.com/c/NzAxMjYyOTM2NTcx)
 
-## Página de Orientações Iniciais
-
-Esta página e a de [Primeiros Passos](start.md) servem para orientações iniciais. Todos devem buscar o quanto antes o acesso ao Google Classroom para acompanhar o restante da disciplina.
