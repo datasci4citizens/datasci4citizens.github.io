@@ -50,4 +50,4 @@ Todo o serviço de desenvolvimento e hospedagem serão oferecidos de forma gratu
 
 ## Submissão de Propostas
 
-Propostas são submetidas exclusivamente pelo formulário no período de 12/07 e 05/08/2024: [Formulário de Submissão de Propostas](https://forms.gle/bjTB73jPk7Ttqxuc8)
+Propostas são submetidas exclusivamente pelo formulário no período de 12/07 e 05/08/2024. O prazo de submissão de propostas está encerrado para esta edição da disciplina. Este prazo precisa ser mantido para podermos fazer a seleção e implementação de projetos na disciplina a tempo. Se você tem interesse em desenvolver um aplicativo e não pode ser atendido, estão planejados oferecimentos futuros desta disciplina.
