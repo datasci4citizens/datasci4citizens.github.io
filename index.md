@@ -2,15 +2,21 @@
 layout: home
 ---
 
-<h1>Edição 2024</h1>
+<h1>Edição 2025</h1>
 
-# Disciplina de Extensão MX853
-
-<hr>
-
-### [Veja Orientações iniciais aqui](landing.md)
+# Disciplinas de Extensão e Projetos MX853 e MC854/MC851
 
 <hr>
+
+## Sumário
+
+Esta disciplina combina uma disciplina de extensão (MX853) e outra de projetos (MC854/MC851). A disciplina de extensão é aberta tanto para a computação quanto para outros cursos que se considerem aptos a contribuir (veja detalhes nas [Perguntas Frequentes](faq.md)). A disciplina de projetos é voltada para alunos de computação.
+
+Ambas as disciplinas ocorrerão em paralelo e têm o mesmo objetivo. O aluno poderá escolher uma das duas para se matricular, mas não as duas simultaneamente. Escolha dependerá do curso do candidato, do estágio em que se encontra e, para alunos da computação, se está na grade antiga ou nova (veja detalhes nas [Perguntas Frequentes](faq.md)).
+
+## Diferenças e equivalências entre MX853 e MC854/MC851
+
+Veja detalhes sobre perfil e pré-requisitos das disciplinas nas [Perguntas Frequentes](faq.md). A disciplina MC854 é equivalente a MC851, então estudantes de catálogos anteriores a 2023 podem se beneficiar da disciplina de extensão também.
 
 ## Horário
 
@@ -22,24 +28,32 @@ Há projetos de pesquisa da Unicamp que envolvem interação com a comunidade ex
 
 Alguns exemplos ilustrativos de aplicativos:
 
-Oferecem orientações de bons hábitos de vida e saúde e coletam dados demográficos, de hábitos e de saúde para pesquisa científica.
-Atuam no contexto de ciência cidadã, por exemplo, recebendo contribuições da comunidade na forma de informações ou imagens, sobre animais ou plantas. Essas informações subsidiam pesquisas científicas, mas também podem retornar à comunidade de forma compilada.
+* Oferecem orientações de bons hábitos de vida e saúde e coletam dados demográficos, de hábitos e de saúde para pesquisa científica.
+* Atuam no contexto de ciência cidadã, por exemplo, recebendo contribuições da comunidade na forma de informações ou imagens, sobre animais ou plantas. Essas informações subsidiam pesquisas científicas, mas também podem retornar à comunidade de forma compilada.
+
+Nesta segunda edição, serão aceitas propostas feitas por alunos através do formulário da chamada e grupos de alunos que tragam propostas para trabalharem em conjunto. No segundo caso, o projeto deverá estar alinhado com a proposta de extensão e com linguagens e frameworks adotados na disciplina. Ele exige uma consulta prévia ao professor.
 
 ## Dinâmica da Disciplina
-Nesta disciplina de extensão, serão formados grupos de alunos para o desenvolvimento de tais aplicativos. Será lançado um edital na universidade em busca de pesquisadores interessados no projeto.
+
+Esta é uma disciplina de extensão, então seu propósito não é o ensino de desenvolvimento de aplicativos.  Espera-se que os alunos de computação já saibam programar em alguma linguagem e tenham autonomia para aprender a linguagem e frameworks adotados na disciplina, sob orientação do professor.
+
+Alunos de outras áreas poderão atuar no desenvolvimento de aplicativos, se já souberem programar em alguma linguagem. Alternativamente, poderão atuar em outras tarefas como: design e tarefas de domínio do aplicativo. No segundo caso, é importante uma consulta prévia ao professor da disciplina.
+
+Serão formados grupos de alunos para o desenvolvimento de tais aplicativos. Será lançado um edital na universidade em busca de pesquisadores interessados no projeto.
 
 Os aplicativos terão complexidade compatível com o período da disciplina. Usualmente, envolverão: (i) apresentação de páginas informativas com complexidade a ser negociada com os solicitantes; (ii) coleta de dados na forma de formulário e armazenamento em servidor; (iii) apresentação de resultados compilados, se necessário. Outras funcionalidades serão negociadas com os solicitantes e os alunos da disciplina.
 
 Serão adotados frameworks que subsidiem o desenvolvimento rápido de aplicativos.
 Nesta disciplina, os alunos colocarão em prática as seguintes habilidades:
 
-Interação com usuários para a compreensão do problema e projeto da solução.
-Projeto e implementação de um aplicativo multiplataforma (usando um framework multiplataforma apropriado).
-Teste com usuários e avaliação do resultado.
+* Interação com usuários para a compreensão do problema e projeto da solução.
+* Projeto e implementação de um aplicativo multiplataforma (usando um framework multiplataforma apropriado).
+* Teste com usuários e avaliação do resultado.
 
 Os alunos terão liberdade para propor soluções além das que estão aqui especificadas em comum acordo com os solicitantes. A única restrição é que todos utilizarão um framework comum para o desenvolvimento da solução, uma vez que posteriormente a manutenção do software ficará sob responsabilidade do professor da disciplina e futuros voluntários.
 
 ## Infraestrutura
-Toda a infraestrutura será hospedada no Instituto de Computação em servidor próprio. Estão sendo analisados frameworks de construção de aplicações que minimizem o esforço de implementação.
+
+Toda a infraestrutura será hospedada no Instituto de Computação em servidor próprio.
 
 Os alunos só serão responsáveis pelo desenvolvimento, implementação, teste e documentação durante o período da disciplina. A manutenção posterior será responsabilidade do professor da disciplina. Todo o software desenvolvido será open-source e será disponibilizado no Github.
