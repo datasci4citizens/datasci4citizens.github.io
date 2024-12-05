@@ -52,6 +52,8 @@ Nesta disciplina, os alunos colocarão em prática as seguintes habilidades:
 
 Os alunos terão liberdade para propor soluções além das que estão aqui especificadas em comum acordo com os solicitantes. A única restrição é que todos utilizarão um framework comum para o desenvolvimento da solução, uma vez que posteriormente a manutenção do software ficará sob responsabilidade do professor da disciplina e futuros voluntários.
 
+Vejam detalhes de avaliação nas [Perguntas Frequentes](faq.md).
+
 ## Infraestrutura
 
 Toda a infraestrutura será hospedada no Instituto de Computação em servidor próprio.

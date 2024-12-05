@@ -21,5 +21,8 @@ Infelizmente, não é possível. A disciplina é organizada para a realização 
 
 **Posso me matricular em ambas as disciplinas (MX853 e MC854)?**
 
-* Não. Só vai ser possível se matricular em uma disciplina (MX853 OU MC854). Se alguém tentar se matricular em ambas, será negada a matrícula em MX853.
+Não. Só vai ser possível se matricular em uma disciplina (MX853 OU MC854). Se alguém tentar se matricular em ambas, será negada a matrícula em MX853.
 
+**Como é feita a avaliação da disciplina?**
+
+A avaliação é feita a partir da participação e engajamento no projeto. Por ser uma disciplina de extensão, é importante ressaltar que o propósito da disciplina não é avaliar habilidades de programação dos alunos. Serão avaliados aspectos como: seu envolvimento e participação na construção do aplicativo, autonomia na busca de soluções, criatividade e capacidade de trabalho em equipe.
