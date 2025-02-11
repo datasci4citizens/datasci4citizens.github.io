@@ -11,6 +11,7 @@ plugins:
 
 header_pages:
  - faq.md
+ - perfil.md
 
 minima:
   # classic	           Default, light color scheme.
