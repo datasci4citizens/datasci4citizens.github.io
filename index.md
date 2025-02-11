@@ -10,7 +10,7 @@ layout: home
 
 ## Sumário
 
-Esta disciplina combina uma disciplina de extensão (MX853) e outra de projetos (MC854/MC851). A disciplina de extensão é aberta tanto para a computação quanto para outros cursos que se considerem aptos a contribuir (veja detalhes nas [Perguntas Frequentes](faq.md)). A disciplina de projetos é voltada para alunos de computação.
+Esta disciplina combina uma disciplina de extensão (MX853) e outra de projetos (MC854/MC851). A disciplina de extensão é aberta tanto para a computação quanto para outros cursos que se considerem aptos a contribuir (veja detalhes nas [Perguntas Frequentes](faq.md)). A disciplina de projetos é voltada para alunos de computação, mas estamos aceitando alunos de outros cursos. Veja em [Perfil do Aluno](perfil.md).
 
 Ambas as disciplinas ocorrerão em paralelo e têm o mesmo objetivo. O aluno poderá escolher uma das duas para se matricular, mas não as duas simultaneamente. Escolha dependerá do curso do candidato, do estágio em que se encontra e, para alunos da computação, se está na grade antiga ou nova (veja detalhes nas [Perguntas Frequentes](faq.md)).
 

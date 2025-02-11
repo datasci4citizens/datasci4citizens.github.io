@@ -12,12 +12,16 @@ Sim. As aulas serão sextas das 14h às 18h.
 
 Infelizmente, não é possível. A disciplina é organizada para a realização de trabalhos e dinâmicas em grupo em sala.
 
+**Alunos que não são da Ciência ou Engenharia da Computação podem participar da disciplina?**
+
+Sim, mas sua aceitação estará sujeita à disponibilidade de vagas e, se necessário, à análise do perfil. Veja detalhes no [Perfil do Aluno](perfil.md) e preencha [*este formulário*](https://forms.gle/XbiSw81Vyuc2p6h28) para embasar a sua seleção.
+
 **Quais os pré-requisitos para a matrícula?**
 
 * A disciplina MX853 é aberta a outros cursos e tem como pré-requisito apenas AA200, o que significa que basta o coordenador autorizar no período de matrícula.
 * A disciplina MC854 é voltada a computação e tem como pré-requisito AA460, o que significa que o estudante deve ter CP >= 0.6.
-* Alunos da midialogia serão aceitos considerando que pretendem atuar no contexto de design.
-* Recomenda-se que alunos de outros cursos preencham este formulário, para embasar decisões de aceitação na disciplina.
+* Alunos da midialogia e artes visuais serão aceitos considerando que pretendem atuar no contexto de design.
+* Recomenda-se que alunos de outros cursos preencham [*este formulário*](https://forms.gle/XbiSw81Vyuc2p6h28), para embasar decisões de aceitação na disciplina.
 
 **Posso me matricular em ambas as disciplinas (MX853 e MC854)?**
 
