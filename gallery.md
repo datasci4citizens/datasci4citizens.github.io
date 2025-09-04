@@ -1,4 +1,8 @@
-# Nosso Acervo de Projetos
+---
+layout: page
+title: Nosso Acervo de Projetos
+permalink: /gallery/
+---
 
 * **Cicatrizando**: Acompanhamento de feridas complexas por profissionais de saúde. O aplicativo é usado tanto por pacientes como por profissionais e permite o acompanhamento da evolução da ferida através de imagens e informações, contando atualmente inclusive com técnicas envolvendo aprendizagem de máquina para medição de feridas. Projeto em parceria com a Faculdade de Enfermagem da UNICAMP.
 
