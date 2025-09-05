@@ -4,6 +4,28 @@ title: Perguntas Frequentes
 permalink: /faq/
 ---
 
+## Perguntas e Respostas da Participação Independente da Disciplina
+
+As perguntas relativas ao formato da participação são respondidas na página de Orientações Iniciais. Outras perguntas:
+
+**Posso participar virtualmente?**
+
+Em princípio, esperamos que a participação seja presencial, principalmente porque este novo formato está sendo implantado e avaliado. Casos especiais poderão ser debatidos com o coordenador do projeto.
+
+**Quais os pré-requisitos para participar do projeto?**
+
+Por ser um projeto de extensão, não há pré-requisitos, mas o coordenador avaliará se você tem perfil para desempenhar as atividades que se propõe. Para que a sua participação conte como créditos de extensão, você precisa ser aluno da UNICAMP e é necessário que o seu curso concorde com o registro das horas de extensão (acordo que será feito com o curso pelo coordenador do projeto).
+
+**Alunos de fora da UNICAMP podem participar?**
+
+Sim, mas não será possível computar horas de extensão e não há nenhuma remuneração financeira associada ao projeto.
+
+**Eu receberei bolsa ou alguma remuneração?**
+
+Não. Trata-se de um projeto de extensão voluntária, sem remuneração associada.
+
+## Perguntas e Respostas da Disciplina
+
 **A disciplina será presencial?**
 
 Sim. As aulas serão sextas das 14h às 18h.
