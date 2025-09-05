@@ -6,9 +6,7 @@ permalink: /perfil/
 
 ## Perfil de um aluno apto a cursar esta disciplina
 
-Há três perfis distintos de alunos conforme o curso de proveniência. Alunos provenientes das artes atuarão no design e não precisam de conhecimentos em programação. Alunos provenientes de domínios específicos (exemplo: saúde) precisam ser indicados por professores que já tenham projeto selecionado para um aplicativo. Alunos de outras áreas atuarão em programação.
-
-É possível que nem todos os alunos que não são da computação possam participar da disciplina se houver excesso de demanda. Sugerimos que alunos que não são de computação preencham [*este formulário*](https://forms.gle/XbiSw81Vyuc2p6h28) para embasar a seleção em caso de excesso de demanda.
+Há três perfis distintos de alunos conforme o curso de proveniência. Alunos provenientes das artes atuarão no design e não precisam de conhecimentos em programação. Alunos provenientes de domínios específicos (exemplo: saúde) se integram em projetos em que possam contribuir dentro do seu domínio. Alunos de cursos que ensinam programação além do básico, poderão atuar em programação dos aplicativos.
 
 Abaixo detalho os perfis:
 
@@ -21,7 +19,6 @@ Abaixo detalho os perfis:
 
 ### Perfil dos alunos de Domínios Especializados
 
-- ter sido indicados por algum professor que for selecionado para desenvolver projeto na disciplina;
 - ter conhecimento no domínio do aplicativo a ser desenvolvido;
 - não é requerido nenhum conhecimento de programação.
 
