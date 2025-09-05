@@ -28,7 +28,7 @@ Alguns exemplos de aplicativos desenvolvidos no projeto:
 
 Serão analisadas propostas feitas por alunos e grupos de alunos que tragam ideias para trabalharem em conjunto, mas daremos inicialmente prioridade a formar equipes para atuar nos aplicativos existentes.
 
-Nesta disciplina, os alunos colocarão em prática as seguintes habilidades:
+Neste projeto, os alunos colocarão em prática as seguintes habilidades:
 
 * Interação com usuários para a compreensão do problema e projeto da solução.
 * Projeto e implementação de um aplicativo multiplataforma (usando um framework multiplataforma apropriado).
@@ -37,7 +37,7 @@ Nesta disciplina, os alunos colocarão em prática as seguintes habilidades:
 
 ## Dinâmica do Projeto
 
-Esta é um projeto de extensão, então seu propósito não é o ensino de desenvolvimento de aplicativos.  Espera-se que os alunos de computação já saibam programar em alguma linguagem e tenham autonomia para aprender a linguagem e frameworks adotados na disciplina, sob orientação do coordenador.
+Esta é um projeto de extensão, então seu propósito não é o ensino de desenvolvimento de aplicativos.  Espera-se que os alunos de computação já saibam programar em alguma linguagem e tenham autonomia para aprender a linguagem e frameworks adotados no projeto, sob orientação do coordenador.
 
 Alunos de outras áreas poderão atuar no desenvolvimento de aplicativos, se já souberem programar em alguma linguagem. Alternativamente, poderão atuar em outras tarefas como: design e tarefas de domínio do aplicativo. No segundo caso, é importante uma consulta prévia ao coordenador do projeto. O cômputo de horas de extensão de alunos não vinculados ao Instituto de Computação depende de um acordo com o respectivo curso. [Veja detalhes aqui](landing.md).
 
@@ -47,11 +47,11 @@ Serão formados grupos de alunos para o desenvolvimento de tais aplicativos.
 
 Periodicamente, são lançadas chamadas para professores e pesquisadores da UNICAMP interessados no projeto.
 
-Os aplicativos terão complexidade compatível com o período da disciplina. Usualmente, envolverão: (i) apresentação de páginas informativas com complexidade a ser negociada com os solicitantes; (ii) coleta de dados na forma de formulário e armazenamento em servidor; (iii) apresentação de resultados compilados, se necessário. Outras funcionalidades serão negociadas com os solicitantes e os alunos da disciplina.
+As metas do projeto terão complexidade compatível com o período de um semestre de trabalho. Conforme a demanda e disponibilidade de novos alunos, haverá extensão para semestres subsequentes. Usualmente, envolverão: (i) apresentação de páginas informativas com complexidade a ser negociada com os solicitantes; (ii) coleta de dados na forma de formulário e armazenamento em servidor; (iii) apresentação de resultados compilados, se necessário. Outras funcionalidades serão negociadas com os solicitantes e os alunos do projeto.
 
 Serão adotados frameworks que subsidiem o desenvolvimento rápido de aplicativos.
 
-Os alunos terão liberdade para propor soluções além das que estão aqui especificadas em comum acordo com os solicitantes. A única restrição é que todos utilizarão um framework comum para o desenvolvimento da solução, uma vez que posteriormente a manutenção do software ficará sob responsabilidade do professor da disciplina e futuros voluntários.
+Os alunos terão liberdade para propor soluções além das que estão aqui especificadas em comum acordo com os solicitantes. A única restrição é que todos utilizarão um framework comum para o desenvolvimento da solução, uma vez que posteriormente a manutenção do software ficará sob responsabilidade do coordenador e futuros voluntários.
 
 Vejam detalhes de avaliação nas [Perguntas Frequentes](faq.md).
 
@@ -59,4 +59,4 @@ Vejam detalhes de avaliação nas [Perguntas Frequentes](faq.md).
 
 Toda a infraestrutura será hospedada no Instituto de Computação em servidor próprio.
 
-Os alunos só serão responsáveis pelo desenvolvimento, implementação, teste e documentação durante o período da disciplina. A manutenção posterior será responsabilidade do professor da disciplina. Todo o software desenvolvido será open-source e será disponibilizado no Github.
+Os alunos só serão responsáveis pelo desenvolvimento, implementação, teste e documentação durante o período em que estiverem vinculados ao projeto. A manutenção posterior será responsabilidade do coordenador e novos alunos que vierem a se vincular posteriormente. Todo o software desenvolvido será open-source e será disponibilizado no Github.
