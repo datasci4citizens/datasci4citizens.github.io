@@ -60,3 +60,9 @@ Vejam detalhes de avaliação nas [Perguntas Frequentes](faq.md).
 Toda a infraestrutura será hospedada no Instituto de Computação em servidor próprio.
 
 Os alunos só serão responsáveis pelo desenvolvimento, implementação, teste e documentação durante o período em que estiverem vinculados ao projeto. A manutenção posterior será responsabilidade do coordenador e novos alunos que vierem a se vincular posteriormente. Todo o software desenvolvido será open-source e será disponibilizado no Github.
+
+## Coordenador e Dúvidas
+
+Coordenador do projeto: [André Santanchè](https://www.ic.unicamp.br/~santanch/)
+
+Envie dúvidas por este formulário: [Formulário de Dúvidas](https://forms.gle/4imGugyMai4U2RXk9)
