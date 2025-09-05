@@ -24,6 +24,8 @@ Alguns exemplos de aplicativos desenvolvidos no projeto:
 * **MolarCheck**:  Profissionais de Odontologia acompanham a saúde bucal de crianças via imagens e informações enviadas.
 * **LembraMed**: Auxiliar pessoas da terceira idade no gerenciamento de medicamentos.
 
+[Veja mais detalhes dos projetos](gallery.md).
+
 Serão analisadas propostas feitas por alunos e grupos de alunos que tragam ideias para trabalharem em conjunto, mas daremos inicialmente prioridade a formar equipes para atuar nos aplicativos existentes.
 
 Nesta disciplina, os alunos colocarão em prática as seguintes habilidades:

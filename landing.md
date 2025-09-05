@@ -21,3 +21,7 @@ Para alunos de outros cursos, o coordenador do projeto entrará em contato com a
 ## Qual o horário de participação?
 
 O trabalho do aluno será individual ou em equipe, conforme a demanda do projeto. Os dias/horários de encontros das equipes deverão acontecer conforme a demanda. Entretanto, todos os alunos deverão participar de uma reunião semanal com o coordenador, com dia/horário a ser combinado. Provavelmente, o encontro acontecerá em um horário entre 12h30 e 13h30 para evitar choques com horários de disciplinas.
+
+## [Veja outras perguntas frequentes aqui](faq.md)
+
+## [Saiba mais sobre o perfil esperado](perfil.md)
